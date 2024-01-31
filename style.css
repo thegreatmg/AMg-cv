@@ -4,8 +4,11 @@
 }
 .h2 {
   color:blue;
-}
 
+}
+html{
+    background-color:lightblue;
+    }
 
 .azure {
   color:pink;
